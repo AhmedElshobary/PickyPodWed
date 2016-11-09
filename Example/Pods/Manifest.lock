@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.1):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.1)
+  - FBSnapshotTestCase/Core (2.1.1)
+  - FBSnapshotTestCase/SwiftSupport (2.1.1):
+    - FBSnapshotTestCase/Core
+  - PickyPodWed (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - PickyPodWed (from `../`)
+
+EXTERNAL SOURCES:
+  PickyPodWed:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 432afd8d059ccef7f207225894840a03fbcf7474
+  PickyPodWed: 210806ecd9594de0f66b7477d1425192fb98ec5a
+
+PODFILE CHECKSUM: a0c0ae1ebe6ba377c7b01af73b271a0bc3f3072d
+
+COCOAPODS: 1.0.1

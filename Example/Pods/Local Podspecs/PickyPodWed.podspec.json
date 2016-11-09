@@ -1,0 +1,26 @@
+{
+  "name": "PickyPodWed",
+  "version": "0.1.0",
+  "summary": "A short description of PickyPodWed.",
+  "homepage": "https://github.com/AhmedElshobary/PickyPodWed",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Elshobary": "ahmed.elshobary.fci2013@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/AhmedElshobary/PickyPodWed.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PickyPodWed/Classes/**/*",
+  "resource_bundles": {
+    "PickyPodWed": [
+      "PickyPodWed/Assets/*.png"
+    ]
+  }
+}
